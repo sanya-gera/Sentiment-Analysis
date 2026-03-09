@@ -1,6 +1,4 @@
-# Hinglish Sentiment Analysis using NLP and Machine Learning
-
-## Overview
+## Hinglish Sentiment Analysis using NLP and Machine Learning
 
 This project explores **sentiment analysis on Hinglish (Hindi–English code-mixed text)** using both traditional machine learning models and modern transformer architectures.
 
