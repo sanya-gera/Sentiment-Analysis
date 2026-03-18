@@ -74,7 +74,9 @@ The datasets were combined and cleaned before training.
 - Normalize whitespace  
 - Convert emojis to sentiment words  
 - Convert text to lowercase  
-- Remove repeated characters  
+- Remove repeated characters
+
+<img width="461" height="441" alt="Screenshot 2026-03-19 at 1 26 07 AM" src="https://github.com/user-attachments/assets/b967f2b8-d7ce-4fba-b5d8-91ae163d3481" />
 
 ### Code-Mixed Specific Handling
 
